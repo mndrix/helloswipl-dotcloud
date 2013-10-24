@@ -1,0 +1,3 @@
+[submodule "swi-prolog-on-dotcloud"]
+	path = swi-prolog-on-dotcloud
+	url = https://github.com/mndrix/swi-prolog-on-dotcloud.git
